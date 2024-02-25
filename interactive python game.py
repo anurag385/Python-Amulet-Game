@@ -1,3 +1,4 @@
+#copy this code to your IDE and then execute the code to play.
 import time
 import random
 
